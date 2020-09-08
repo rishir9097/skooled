@@ -1,0 +1,119 @@
+#title{
+    background-color:  #20bf55;
+    background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+    
+    color:#fff;
+    
+}
+h1{
+    font-family:   'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+p{
+    font-family:  'Ubuntu', sans-serif;
+    line-height: 1.5;
+    font-size: 1.3rem;
+    margin-top: 0px;
+    margin-bottom: -3rem;
+    padding-left: 48px;
+    
+}
+.container-fluid{
+    padding:3% 15%;
+}
+.navbar-brand{
+    
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size:1.2rem ;
+    font-family: "Montserrat-Light";
+}
+.download-button{
+    margin: 5% 3% 2% 0;
+    margin-left: 73px
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+.img-1{
+    width: 100px;
+    height: 100px;
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+#testimonials{
+    
+    text-align: center;
+    background-color:   #20bf55;
+    background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%); 
+    color: #fff;
+    
+}
+h2{
+    font-family:   'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5rem;
+}
+#press{
+    background-color: #20bf55; 
+    background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+    text-align: center;
+    padding-bottom: 3%;
+
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+padding: 100px;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+#cta{
+    background-color: #20bf55; 
+    background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-heading{
+    font-family:'Ubuntu', sans-serif; 
+    font-size: 2rem;
+    line-height: 1.;
+}
+#footer{
+    padding: 5% 5%;
+    text-align: center;
+    position: relative;
+    background-color :#aee1f9;
+background-image: linear-gradient(315deg, #aee1f9 0%, #f6ebe6 74%);
+
+    
+    
+}
+.social-icon{
+    margin: 20px 10px;
+}
+.contact-1{
+    text-align: center;
+    
+}
+.contact-2{
+    margin-left: -800px;
+    margin-top: 20px;
+    
+}
